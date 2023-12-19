@@ -1,0 +1,19 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+.header-logo {
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px; 
+    letter-spacing: 0.54px;
+    color: #4D5AE5;
+    text-decoration: none;
+}
+
+.navy-blue-color {
+    color: #2E2F42;
+}
