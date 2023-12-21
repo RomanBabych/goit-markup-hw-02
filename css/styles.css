@@ -36,7 +36,8 @@ a {
     letter-spacing: 0.02em;
 }
 
-.nav-list-item-link:hover {
+.nav-list-item-link:hover,
+.nav-list-item-link:focus {
     color:#404bbf;
 }
 
